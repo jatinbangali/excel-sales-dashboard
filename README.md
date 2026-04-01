@@ -1,18 +1,29 @@
 # Superstore Sales Dashboard (Excel)
 
-This project is an interactive sales dashboard built using Excel.
+## 📊 Project Overview
+This project is an interactive Excel dashboard built to analyze Superstore sales data and derive key business insights.
 
-## Key Features:
-- Total Sales, Average Sales, Transactions KPIs
-- Region and Year filters
+## 🚀 Key Features
+- KPI Cards (Total Sales, Average Sales, Transactions, Quantity)
+- Region and Year slicers for dynamic filtering
 - Monthly sales trend analysis
-- Category and customer segmentation insights
+- Category-wise and customer segment insights
+- Top cities sales analysis
 
-## Tools Used:
+## 🛠 Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Charts
 - Slicers
 
-## Purpose:
-To analyze sales performance and derive actionable insights.
+## 📷 Dashboard Preview
+![Dashboard](SuperstoreSalesdashboard.png)
+
+## 🎯 Purpose
+To demonstrate data analysis, visualization, and dashboard-building skills using Excel.
+
+## 📌 Learnings
+- Data cleaning and transformation
+- Building interactive dashboards
+- Using slicers for dynamic filtering
+- Visual storytelling with data
